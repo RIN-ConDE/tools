@@ -1,5 +1,4 @@
 # Correction du texte sur M.O.Excel/L.O.Calc
---------------
 #### Présentation :
 * Pour **faciliter les opérations de correction des textes**, nous avons produit des tableaux permettant de travailer en-dehors du XML. Ces tableaux ont été écrits par un script Python disponible dans ce même dossier (`tableaux_a_modifier.ipynb`) et exécutable via Jupyter Notebook.
 * Nos tableaux comportent deux types d'objets, à raison d'un par ligne : a) les **tokens** (mots, ponctuation...) et b) les **sauts de ligne** avec leur att.facs contenant le numéro de facsimilé, pour permettre un retour à l'image en cas de besoin.

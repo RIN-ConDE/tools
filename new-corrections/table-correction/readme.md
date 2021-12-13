@@ -3,6 +3,8 @@
 * Pour **faciliter les opérations de correction des textes**, nous avons produit des tableaux permettant de travailer en-dehors du XML. Ces tableaux ont été écrits par un script Python disponible dans ce même dossier (`tableaux_a_modifier.ipynb`) et exécutable via Jupyter Notebook.
 * Nos tableaux comportent deux types d'objets, à raison d'un par ligne : a) les **tokens** (mots, ponctuation...) et b) les **sauts de ligne** avec leur att.facs contenant le numéro de facsimilé, pour permettre un retour à l'image en cas de besoin.
 * Un tableau comprend nombre de colonnes destinées à faciliter l'utilisation ou typer précisément les corrections effectuées.
+* Les tableaux sont au format CSV : vu la quantité de données, les avantages de légèreté du CSV sont primordiaux. Pour ouvrir des fichiers CSV sous Excel, voici [un tutoriel utile](https://www.copytrans.net/support/how-to-open-a-csv-file-in-excel/) Il est également primordial de les enregistrer sous leur format CSV.
+* Il existe sur Excel une fonction pour fixer la première ligne, de manière à ce que les noms de colonnes soient visibles en permanence, voici [un tutoriel pour ce faire](https://support.microsoft.com/fr-fr/office/figer-les-volets-pour-verrouiller-la-premi%C3%A8re-ligne-ou-la-premi%C3%A8re-colonne-dans-excel-pour-mac-b8eb717e-9d3e-4354-8c02-d779a4b404b2).
 
 #### Ce que permettent ces tableaux :
 * De **séparer** repérage des tokens problématiques et correction à proprement parler en permettant de marquer des tokens comme "à corriger".

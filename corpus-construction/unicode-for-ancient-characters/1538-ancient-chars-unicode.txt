@@ -1,0 +1,50 @@
+WARNING :
+
+If your computer does not have the necessary font installed, the characters on this file may not be readable to you right now. For this reason, a PDF version is available so you can visualize what we spotted and used.
+If you would like to see and use all of these characters, please check out the Junicode font at <https://junicode.sourceforge.io/>.
+Character descriptions are in French for now, but may be translated at some point for documentation purposes.
+
+
+VOYELLES :
+
+ē ō ā ī ū (*n *m)
+
+CONSONNES COURANTES + LEURS ABRÉVIATIONS :
+
+ſ (s non final)
+ﬅ (S long ligaturé à T)
+ (S long ligaturé à L)
+
+ (d initial)
+ (de, dem, -dit(s), -dite(s) )
+
+ɿ (r derrière b, p, o, y ou  mais pas d)
+r̄  (?)
+ ͬ(r suscrit)
+
+q̇ q̄ (qui, que)
+Ꝙ (quod majuscule)
+ (quod ?)
+ (quia)
+ ̄ (-que;-quem ?)
+
+m̄ (ment, ?) n̄
+p̄ (pr*n ?)
+t̄ (-tur) -> texte latin
+
+ABRÉVIATIONS DE SYLLABES / MOTS / TERMINAISONS :
+
+p̉̍
+ꝓ (pre pro prou)
+p̲ (per par pour)
+⁊ (et tironien)
+Ꝝ (-arum, -orum) -> texte latin
+ (cum + extrapolations, ici comme caractère, non suscrit)
+᷒ (-us suscrit, par extension -os)
+
+SYMBOLES :
+
+ℂ (pied-de-mouche, "capitulum")
+Ⱶ (moitié de H, cf https://unicode-table.com/fr/2C75/ )
+
+

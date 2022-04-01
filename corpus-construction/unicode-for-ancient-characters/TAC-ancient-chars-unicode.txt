@@ -1,0 +1,74 @@
+WARNING :
+
+If your computer does not have the necessary font installed, the characters on this file may not be readable to you right now. For this reason, a PDF version is available so you can visualize what we spotted and used.
+If you would like to see and use all of these characters, please check out the Junicode font at <https://junicode.sourceforge.io/>.
+Character descriptions are in French for now, but may be translated at some point for documentation purposes.
+
+
+VOYELLES :
+
+ē ō ā ī ū (*n *m)
+ı (i non pointé)
+
+ᵅ (a suscrit = ra)
+ᵒ (o suscrit = ro)
+ᵉ (e suscrit = re)
+ᵘ (u suscrit = ru)
+ ͥ (i suscrit = ri)
+
+ẏ (sur ẏglise, ẏvri (initiales de noms propres) - attention, copier deux caractères)
+ẽ (ure)
+
+CONSONNES COURANTES + LEURS ABRÉVIATIONS :
+
+ſ (s non final)
+ᷤ (s suscrit)
+ſt (=s[on]t - attention, trois caractères)
+
+ (S long + abbréviation, "solz" ou cf http://www.hist.msu.ru/Departments/Medieval/Cappelli/CPLLI336.HTM)
+ꝭ (abbréviation : -is)
+
+ (= d)
+ (de, dem, -dit(s), -dite(s), -dre, denier(s))
+
+ꝛ (r derrière b, p, o, y ou  mais pas d)
+ ͬ(r suscrit)
+ꝶ (Roger)
+
+qͥ (pour q + i suscrit - attention, deux caractères)
+q̄ (qui, que)
+
+p̃ (pou/pour - attention, deux caractères)
+p̉̍
+p̄ (pre, pr*n ?)
+pͥ
+pͦ (p + o suscrit)
+ꝓ (pre pro prou)
+p̲ (per par pour)
+
+mͬ (mer - attention, il prend deux caractères)
+m̄ (ment, man)
+n̄ (ne), ᷠ (n suscrit)
+t̄ (-tur)
+t (T avec r suscrit - attention, il prend deux caractères)
+ƀ (b + er)
+ (v + er)
+
+ABRÉVIATIONS DE SYLLABES / MOTS / TERMINAISONS :
+
+⁊ (et tironien)
+ (cum, con ou extrapolations, ici comme caractère, non suscrit)
+ꝰ (-us suscrit, par extension -os)
+mlꝰt (moult)
+  en fin de ligne
+
+SYMBOLES :
+
+; pour ;̶ (cf p1)
+
+· (point médian)
+ℂ (pied-de-mouche, "capitulum")
+Ⱶ (moitié de H, cf https://unicode-table.com/fr/2C75/ )
+§ (signe de paragraphe au-dessus du point d'exclamation sur le clavier)
+᛭ (croix runique de ponctuation, cf https://unicode-table.com/fr/16ED/ )
+

@@ -1,5 +1,7 @@
 # Cite this repository
-```Larrivée, Pierre et Mathieu Goux (dir.), 2021, outils du projet ConDÉ, Caen, CRISCO EA4255. URL : https://github.com/RIN-ConDE/tools/```
+```
+Larrivée, Pierre et Mathieu Goux (dir.), 2021, outils du projet ConDÉ, Caen, CRISCO EA4255. URL : https://github.com/RIN-ConDE/tools/
+```
 
 ----------------------------
 # Repository description
